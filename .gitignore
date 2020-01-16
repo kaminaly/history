@@ -1,5 +1,5 @@
 /node_modules/
 /esm/
-/cjs/
+# /cjs/
 /umd/
 /local.log
